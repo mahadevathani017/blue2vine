@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
 
-- 🌱 I’m currently learning **Reatjs, DSA, Python**
+- 🌱 I’m currently learning **Reactjs, DSA, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
