@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahadev Athani</h1>
-<h3 align="center">A passionate machine learning</h3>
+<h3 align="center">A passionate to machine learning</h3>
 
 <img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
 
